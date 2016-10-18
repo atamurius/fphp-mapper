@@ -1,0 +1,10 @@
+{
+    "require": {
+        "lstrojny/functional-php": "~1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mapper\\": "src/"
+        }
+    }
+}
